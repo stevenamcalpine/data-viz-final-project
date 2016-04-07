@@ -10,6 +10,7 @@ Jeanette Pang
 
 Let's use the READ_ME file as a timeline, keeping a record of our contributions over time. If you're adding a file just insert your name, date, and a small intro to a recent contribution:
 
-*2/11*
+*4/5*
 Schinria Islam: Created repository and README.md
-
+*4/7*
+Schinria Islam: Uploaded state contributions data to new "data" folder; added "lib" and "output" folders to repo
