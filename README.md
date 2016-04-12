@@ -12,3 +12,6 @@ Let's use the READ_ME file as a timeline, keeping a record of our contributions 
 
 *4/5*
 Schinria Islam: Created repository and README.md
+
+*4/12*
+Steven McAlpine: Added r code to read in classified and geotagged tweets, calculate model metrics, run preliminary model
